@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<style>
+{
+  padding:30px;
+  font-family:Arial;
+  margin:0;
+  background:teal;
+  color:white;
+  font-size:25px;
+}
+.header
+{
+  padding:60px;
+  text-align:center;
+  background:blue;
+  color:white;
+  font-size:30px;
+}
+.footer
+{
+  padding:60px;
+  text-align:center;
+  background:#321456;
+  color:black;
+  font-size:20px;
+}
+</style>
+<head>
+<title>Lab Program2</title>
+<div class="header">
+<h1><Program using CSS</h1>
+<p>Header,Footer,Nav was Styled</p>
+</div>
+</head>
+<p>The nav element defines a set of navigation links:</p>
+  <nav>
+  <a href="https://WWW.ignou.ac.in">IGNOU</a>
+<a href="https://WWW.trb.tn.nic.in">TRB</a>
+<a href="https://WWW.PioneerKumaraswamyCollege.com">PKC</a>
+  </nav><br><br>
+    <form>
+    Your name:<input type="text"name="name"required Placeholder="Enter your name">
+Email:<input type="text"name="email"required Placeholder="Enter a valid email">
+    </form>
+    <br>
+    </body>
+<div class="footer">
+  Footer Area
+  </div>
+</html>
+  
